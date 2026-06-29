@@ -1,0 +1,602 @@
+canonical_identifier: bkk:krp/KR3ed029/jc/v1
+canonical_location: https://kanripo.org/bkk/KR3ed029/jc/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 活人事證方後集
+  identifiers:
+    krp: KR3ed029
+  tags:
+    kr-categories: KR3ed
+    tls-dates: dat04350
+  source:
+    repository: tls-texts
+    path: data/tls/KR3ed029.xml
+  edition:
+    short: jc
+assets:
+  parts:
+  - {seq: 1, filename: KR3ed029_001-jc.yaml, hash: 'sha256:ac342464649f827787e0a07e8cfe8157ba348f7dbec2541a970ccb09037d5732'}
+  - {seq: 2, filename: KR3ed029_002-jc.yaml, hash: 'sha256:f8eff62cd9875ea2e0590cef8fa5034e6c5fa6b8d0bccf1ea68b39fc59b91d31'}
+  - {seq: 3, filename: KR3ed029_003-jc.yaml, hash: 'sha256:cbc48943e38f1797eb8a4870d3f8f04623453e6b77bf67e9066f73eba66f7f38'}
+  - {seq: 4, filename: KR3ed029_004-jc.yaml, hash: 'sha256:aa609a1695b1251e098f9dc3793dc84d7d2f3a476dd4096c4332632682debb5f'}
+  - {seq: 5, filename: KR3ed029_005-jc.yaml, hash: 'sha256:97dd8084bbf90143ccfc7de818bdadadb1f26c22d12ceaa5650fbbaabb3a282e'}
+  - {seq: 6, filename: KR3ed029_006-jc.yaml, hash: 'sha256:d92caf11c2af2c2f22f96cf0cbbb5e60c2d70e28f9b39fc15a3790cc590083b8'}
+  - {seq: 7, filename: KR3ed029_007-jc.yaml, hash: 'sha256:2af0f612d3e2760e62694af9b04869e1209908edfcb8e1dc4930f045169389cb'}
+  - {seq: 8, filename: KR3ed029_008-jc.yaml, hash: 'sha256:9d3d3f7a2c7b6eeb3c03c746d3e72a73c0e0950bd3c76553689ecbe659d10dec'}
+  - {seq: 9, filename: KR3ed029_009-jc.yaml, hash: 'sha256:534d46d4074ff00bc972352b4874b95ef51d4a935a3a91c8d2af5a75ca35a978'}
+  - {seq: 10, filename: KR3ed029_010-jc.yaml, hash: 'sha256:49d842ea26ccc183d09ee6ae2a0aa2460bd27f3900ca7392e8942e53963c462f'}
+  - {seq: 11, filename: KR3ed029_011-jc.yaml, hash: 'sha256:6c8c9374da08605137775491cd25465dfc50f2e8e24c2fd0ea64eb97e45d9f4d'}
+  - {seq: 12, filename: KR3ed029_012-jc.yaml, hash: 'sha256:7ae3b1b776f819577fdfbae94cb412a2e7b674ed43a1000b79c0772e9d05c6da'}
+  - {seq: 13, filename: KR3ed029_013-jc.yaml, hash: 'sha256:28edde0d6414c0957b9612c9d8ffc27a7ef25ed176f71644c518915489ec253c'}
+  - {seq: 14, filename: KR3ed029_014-jc.yaml, hash: 'sha256:04c897a3661b1ac24e937f758b89dc9142412f19f466c80c761adb7fc8777be0'}
+  - {seq: 15, filename: KR3ed029_015-jc.yaml, hash: 'sha256:97bd84c7d33b421a7af3010bcb3c0f4b0cc6580171de1df457c727d4fe84b7c4'}
+  - {seq: 16, filename: KR3ed029_016-jc.yaml, hash: 'sha256:d8782697a9ec5971b5d1f720dc3f1a0388ca75bd17fdc3f08b784d923de1f0e2'}
+  - {seq: 17, filename: KR3ed029_017-jc.yaml, hash: 'sha256:f235416e04f5f6d2f53e5b66060325917a3876d707b5043cb263f49960396f61'}
+  - {seq: 18, filename: KR3ed029_018-jc.yaml, hash: 'sha256:ce6b3f3f939d2e31e85f72efb02e46b62ac07fef164d26d297d0b689f651ef30'}
+  - {seq: 19, filename: KR3ed029_019-jc.yaml, hash: 'sha256:fdfafbb2e14e92299299400a5766015f9038a030fafb21b9c382104d85a53fd3'}
+  - {seq: 20, filename: KR3ed029_020-jc.yaml, hash: 'sha256:83fb236166bb21dd31b01449d3cf8ddc30592ddae76d675aa3b032c40fe84a16'}
+  markers:
+  - {seq: 1, role: markers, filename: assets/KR3ed029_001-jc.markers.yaml, hash: 'sha256:70426c8056f7d41816ae73bdf38fba8f5ba7308b86da47751fe9eb8b1bb9afb3'}
+  - {seq: 2, role: markers, filename: assets/KR3ed029_002-jc.markers.yaml, hash: 'sha256:735e7a9a4899eb63ce15ec33ac5a2a13df0ec8eea9f6876f93591b8661bdcac7'}
+  - {seq: 3, role: markers, filename: assets/KR3ed029_003-jc.markers.yaml, hash: 'sha256:8c1a4abb33097067f0daa3abe4dab6c62a511af666095e0b67102176faa476be'}
+  - {seq: 4, role: markers, filename: assets/KR3ed029_004-jc.markers.yaml, hash: 'sha256:6044e83c8f80dfdaaccf884bbc9d34d2b03e6c1b922376285950f3f1d3e4af51'}
+  - {seq: 5, role: markers, filename: assets/KR3ed029_005-jc.markers.yaml, hash: 'sha256:3f04da70633900ba296b9b7834bd48ab3d28d3adabfe70f497ecf7265923d996'}
+  - {seq: 6, role: markers, filename: assets/KR3ed029_006-jc.markers.yaml, hash: 'sha256:4bb7085c457ed08c7318f94c1e4386bb8f0eda6a81aef5b9fd2f297c9053dc8a'}
+  - {seq: 7, role: markers, filename: assets/KR3ed029_007-jc.markers.yaml, hash: 'sha256:652edbb6ff316b45427a632f1f63134f0df21921edcc172b5d9ee8ab4f8246b5'}
+  - {seq: 8, role: markers, filename: assets/KR3ed029_008-jc.markers.yaml, hash: 'sha256:975d29b85eccf9cf7400681abca656a7d9f40fcd8ff93ea4f4aa4105abaa8150'}
+  - {seq: 9, role: markers, filename: assets/KR3ed029_009-jc.markers.yaml, hash: 'sha256:e9ee4eea97deac21c08d0faabd5b963ff07174940a3987358fd8d993c8cfe87a'}
+  - {seq: 10, role: markers, filename: assets/KR3ed029_010-jc.markers.yaml, hash: 'sha256:eba2bd1d8533e580114d479a12400b1c1e9a92f1c8258f1fcf4c27c0003a1014'}
+  - {seq: 11, role: markers, filename: assets/KR3ed029_011-jc.markers.yaml, hash: 'sha256:a6c140c9f8c5465077d55566a3a26565efa402dbad0abd6469faa999703e2ce5'}
+  - {seq: 12, role: markers, filename: assets/KR3ed029_012-jc.markers.yaml, hash: 'sha256:ce008d8e6459dcd5f8acd314bdba346f891c1fc13ec9367992c892a08e2da5d8'}
+  - {seq: 13, role: markers, filename: assets/KR3ed029_013-jc.markers.yaml, hash: 'sha256:f3bce21e74f643fbb36705d79a4ef730747e20ea37ff0c4ccf2a5c3d9fbe3f64'}
+  - {seq: 14, role: markers, filename: assets/KR3ed029_014-jc.markers.yaml, hash: 'sha256:204cb716a1eabfcb0575e3eecb9cb6e25950f46090d750a187c9eba3172e3395'}
+  - {seq: 15, role: markers, filename: assets/KR3ed029_015-jc.markers.yaml, hash: 'sha256:4e4745388be5cfb0a46abeefe3ff3e58df665d1605d610f0327b13d21c956a9c'}
+  - {seq: 16, role: markers, filename: assets/KR3ed029_016-jc.markers.yaml, hash: 'sha256:ed5070cc1103c0099c3cd24199922d06cf2b4acc0bd89d35d950f710cdb6ae42'}
+  - {seq: 17, role: markers, filename: assets/KR3ed029_017-jc.markers.yaml, hash: 'sha256:7a2d54d679f0701bec7c4786684a92888c0eccf1f5bb3c215acb99d99198a508'}
+  - {seq: 18, role: markers, filename: assets/KR3ed029_018-jc.markers.yaml, hash: 'sha256:ed9e4da52eba5f0538071e60a106c0f1ca48fb773147c81cb5335c7656e967db'}
+  - {seq: 19, role: markers, filename: assets/KR3ed029_019-jc.markers.yaml, hash: 'sha256:7e07e2be9036a6f93c98fa272abfbf5d89c2437570f6745d316a51ad11921e1b'}
+  - {seq: 20, role: markers, filename: assets/KR3ed029_020-jc.markers.yaml, hash: 'sha256:e6e21263649c9863c1ec843fd6b86361da9751fff2edcba8ef0692d47fc6f769'}
+table_of_contents:
+- ref:
+    seq: 1
+    marker_id: KR3ed029_jc_001-d2.h1s1
+    span:
+    - body
+    - 0
+    - 5508
+  label: 卷之一
+  type: section
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR3ed029_jc_001-d2d2
+    span:
+    - body
+    - 3
+    - 5508
+  label: 中風門
+  type: section
+  level: 2
+- ref:
+    seq: 2
+    marker_id: KR3ed029_jc_002-d3.h1s1
+    span:
+    - body
+    - 0
+    - 3461
+  label: 卷之二
+  type: section
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR3ed029_jc_002-d3d2
+    span:
+    - body
+    - 3
+    - 3461
+  label: 心氣門
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3ed029_jc_003-d4.h1s1
+    span:
+    - body
+    - 0
+    - 3990
+  label: 卷之三
+  type: section
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR3ed029_jc_003-d4d2
+    span:
+    - body
+    - 3
+    - 3990
+  label: 虛損門
+  type: section
+  level: 2
+- ref:
+    seq: 4
+    marker_id: KR3ed029_jc_004-d5.h1s1
+    span:
+    - body
+    - 0
+    - 3192
+  label: 卷之四
+  type: section
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR3ed029_jc_004-d5d2
+    span:
+    - body
+    - 3
+    - 3192
+  label: 白濁門
+  type: section
+  level: 2
+- ref:
+    seq: 5
+    marker_id: KR3ed029_jc_005-d6.h1s1
+    span:
+    - body
+    - 0
+    - 1774
+  label: 卷之五
+  type: section
+  level: 1
+- ref:
+    seq: 5
+    marker_id: KR3ed029_jc_005-d6d2
+    span:
+    - body
+    - 3
+    - 1774
+  label: 盜汗門
+  type: section
+  level: 2
+- ref:
+    seq: 6
+    marker_id: KR3ed029_jc_006-d7.h1s1
+    span:
+    - body
+    - 0
+    - 2068
+  label: 卷之六
+  type: section
+  level: 1
+- ref:
+    seq: 6
+    marker_id: KR3ed029_jc_006-d7d2
+    span:
+    - body
+    - 3
+    - 2068
+  label: 中暑門
+  type: section
+  level: 2
+- ref:
+    seq: 7
+    marker_id: KR3ed029_jc_007-d8.h1s1
+    span:
+    - body
+    - 0
+    - 3157
+  label: 卷之七
+  type: section
+  level: 1
+- ref:
+    seq: 7
+    marker_id: KR3ed029_jc_007-d8d2
+    span:
+    - body
+    - 3
+    - 3157
+  label: 瘴瘧門
+  type: section
+  level: 2
+- ref:
+    seq: 8
+    marker_id: KR3ed029_jc_008-d9.h1s1
+    span:
+    - body
+    - 0
+    - 1958
+  label: 卷之八
+  type: section
+  level: 1
+- ref:
+    seq: 8
+    marker_id: KR3ed029_jc_008-d9d2
+    span:
+    - body
+    - 3
+    - 1958
+  label: 霍亂門
+  type: section
+  level: 2
+- ref:
+    seq: 9
+    marker_id: KR3ed029_jc_009-d10.h1s1
+    span:
+    - body
+    - 0
+    - 3712
+  label: 卷之九
+  type: section
+  level: 1
+- ref:
+    seq: 9
+    marker_id: KR3ed029_jc_009-d10d2
+    span:
+    - body
+    - 3
+    - 3712
+  label: 痰飲門
+  type: section
+  level: 2
+- ref:
+    seq: 10
+    marker_id: KR3ed029_jc_010-d11.h1s1
+    span:
+    - body
+    - 0
+    - 2208
+  label: 卷之十
+  type: section
+  level: 1
+- ref:
+    seq: 10
+    marker_id: KR3ed029_jc_010-d11d2
+    span:
+    - body
+    - 3
+    - 2208
+  label: 嘔吐門
+  type: section
+  level: 2
+- ref:
+    seq: 10
+    marker_id: KR3ed029_jc_010-d11.d2d6
+    span:
+    - body
+    - 158
+    - 380
+  label: 寒嘔證治
+  type: section
+  level: 3
+- ref:
+    seq: 10
+    marker_id: KR3ed029_jc_010-d11.d2d7
+    span:
+    - body
+    - 380
+    - 528
+  label: 熱嘔證治
+  type: section
+  level: 3
+- ref:
+    seq: 10
+    marker_id: KR3ed029_jc_010-d11.d2d8
+    span:
+    - body
+    - 528
+    - 687
+  label: 痰嘔證治
+  type: section
+  level: 3
+- ref:
+    seq: 10
+    marker_id: KR3ed029_jc_010-d11.d2d9
+    span:
+    - body
+    - 687
+    - 882
+  label: 食嘔證治
+  type: section
+  level: 3
+- ref:
+    seq: 10
+    marker_id: KR3ed029_jc_010-d11.d2d10
+    span:
+    - body
+    - 882
+    - 1201
+  label: 血嘔證治
+  type: section
+  level: 3
+- ref:
+    seq: 10
+    marker_id: KR3ed029_jc_010-d11.d2d11
+    span:
+    - body
+    - 1201
+    - 1407
+  label: 氣嘔證治
+  type: section
+  level: 3
+- ref:
+    seq: 10
+    marker_id: KR3ed029_jc_010-d11.d2d12
+    span:
+    - body
+    - 1407
+    - 2208
+  label: 噦逆治法
+  type: section
+  level: 3
+- ref:
+    seq: 11
+    marker_id: KR3ed029_jc_011-d12.h1s1
+    span:
+    - body
+    - 0
+    - 2974
+  label: 卷之十一
+  type: section
+  level: 1
+- ref:
+    seq: 11
+    marker_id: KR3ed029_jc_011-d12d2
+    span:
+    - body
+    - 4
+    - 2974
+  label: 腫滿門
+  type: section
+  level: 2
+- ref:
+    seq: 12
+    marker_id: KR3ed029_jc_012-d13.h1s1
+    span:
+    - body
+    - 0
+    - 3964
+  label: 卷之十二
+  type: section
+  level: 1
+- ref:
+    seq: 12
+    marker_id: KR3ed029_jc_012-d13d2
+    span:
+    - body
+    - 4
+    - 2008
+  label: 疝氣門
+  type: section
+  level: 2
+- ref:
+    seq: 12
+    marker_id: KR3ed029_jc_012-d13d3
+    span:
+    - body
+    - 2008
+    - 3964
+  label: 腸風門
+  type: section
+  level: 2
+- ref:
+    seq: 13
+    marker_id: KR3ed029_jc_013-d14.h1s1
+    span:
+    - body
+    - 0
+    - 3878
+  label: 卷之十三
+  type: section
+  level: 1
+- ref:
+    seq: 13
+    marker_id: KR3ed029_jc_013-d14d2
+    span:
+    - body
+    - 4
+    - 3878
+  label: 胎產門
+  type: section
+  level: 2
+- ref:
+    seq: 14
+    marker_id: KR3ed029_jc_014-d15.h1s1
+    span:
+    - body
+    - 0
+    - 3975
+  label: 卷之十四
+  type: section
+  level: 1
+- ref:
+    seq: 14
+    marker_id: KR3ed029_jc_014-d15d2
+    span:
+    - body
+    - 4
+    - 1614
+  label: 淋閉門
+  type: section
+  level: 2
+- ref:
+    seq: 14
+    marker_id: KR3ed029_jc_014-d15d3
+    span:
+    - body
+    - 1614
+    - 3975
+  label: 發背門
+  type: section
+  level: 2
+- ref:
+    seq: 15
+    marker_id: KR3ed029_jc_015-d16.h1s1
+    span:
+    - body
+    - 0
+    - 2706
+  label: 卷之十五
+  type: section
+  level: 1
+- ref:
+    seq: 15
+    marker_id: KR3ed029_jc_015-d16d2
+    span:
+    - body
+    - 4
+    - 1194
+  label: 血疾門
+  type: section
+  level: 2
+- ref:
+    seq: 15
+    marker_id: KR3ed029_jc_015-d16d3
+    span:
+    - body
+    - 1194
+    - 2706
+  label: 中毒門
+  type: section
+  level: 2
+- ref:
+    seq: 16
+    marker_id: KR3ed029_jc_016-d17.h1s1
+    span:
+    - body
+    - 0
+    - 3766
+  label: 卷之十六
+  type: section
+  level: 1
+- ref:
+    seq: 16
+    marker_id: KR3ed029_jc_016-d17d2
+    span:
+    - body
+    - 4
+    - 2018
+  label: 咽喉門
+  type: section
+  level: 2
+- ref:
+    seq: 16
+    marker_id: KR3ed029_jc_016-d17d3
+    span:
+    - body
+    - 2018
+    - 3766
+  label: 頭目門
+  type: section
+  level: 2
+- ref:
+    seq: 17
+    marker_id: KR3ed029_jc_017-d18.h1s1
+    span:
+    - body
+    - 0
+    - 2696
+  label: 卷之十七
+  type: section
+  level: 1
+- ref:
+    seq: 17
+    marker_id: KR3ed029_jc_017-d18d2
+    span:
+    - body
+    - 4
+    - 1396
+  label: 口齒門
+  type: section
+  level: 2
+- ref:
+    seq: 17
+    marker_id: KR3ed029_jc_017-d18d3
+    span:
+    - body
+    - 1396
+    - 2696
+  label: 耳鼻門
+  type: section
+  level: 2
+- ref:
+    seq: 18
+    marker_id: KR3ed029_jc_018-d19.h1s1
+    span:
+    - body
+    - 0
+    - 2479
+  label: 卷之十八
+  type: section
+  level: 1
+- ref:
+    seq: 18
+    marker_id: KR3ed029_jc_018-d19d2
+    span:
+    - body
+    - 4
+    - 1937
+  label: 疹痘門
+  type: section
+  level: 2
+- ref:
+    seq: 18
+    marker_id: KR3ed029_jc_018-d19d3
+    span:
+    - body
+    - 1937
+    - 2479
+  label: 湯火門
+  type: section
+  level: 2
+- ref:
+    seq: 19
+    marker_id: KR3ed029_jc_019-d20.h1s1
+    span:
+    - body
+    - 0
+    - 2036
+  label: 卷之十九
+  type: section
+  level: 1
+- ref:
+    seq: 19
+    marker_id: KR3ed029_jc_019-d20d2
+    span:
+    - body
+    - 4
+    - 2036
+  label: 雜方
+  type: section
+  level: 2
+- ref:
+    seq: 20
+    marker_id: KR3ed029_jc_020-d21.h1s1
+    span:
+    - body
+    - 0
+    - 3084
+  label: 卷之二十
+  type: section
+  level: 1
+- ref:
+    seq: 20
+    marker_id: KR3ed029_jc_020-d21d2
+    span:
+    - body
+    - 4
+    - 1562
+  label: 服餌門
+  type: section
+  level: 2
+- ref:
+    seq: 20
+    marker_id: KR3ed029_jc_020-d21d3
+    span:
+    - body
+    - 1562
+    - 3084
+  label: 修養門
+  type: section
+  level: 2
+hash: sha256:36bb9d10849580fdccd51f8122a43d4f34d6398df5d852a9af3739b61f1882e8
